@@ -19,14 +19,17 @@ That’s why I dedicate my time to creating resources, lessons, and tools that h
 ---
 
 ## 📂 Featured Repository
-[`machinelearning`](https://github.com/yourusername/machinelearning) – A growing collection of **machine learning algorithms** with clear explanations.
+[`machinelearning`](https://github.com/TrevorPaull/machinelearning) – A growing collection of **machine learning algorithms** with clear explanations.
 
 ---
 
 ## ☕ Support My Work
 If you find my work helpful, consider supporting me so I can keep creating more content:
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/trevorss)
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/trevorss" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
 ---
 ✨ *Thanks for stopping by — happy coding!* 🚀
